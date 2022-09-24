@@ -15,5 +15,5 @@ Using this page you can check if a Crypto wallet is valid or not.
 | ---------- | -------- | -------- | --------------------------------------------- | ---------------------------------------------- |
 | `api`      | `true`   | `string` | `1257374757365723a3123ds3633123213123421412a` | Get your API form your user dashboard.         |
 | `currency` | `true`   | `string` | `TRX`                                         | send the currency you want to get balance for. |
-| `address`  | `true`   | `string` | TS28HzZK9QpVMYFDZkSib9TXHRB65Zni9D            | send the address to be checked                 |
+| `address`  | `true`   | `string` | `TS28HzZK9QpVMYFDZkSib9TXHRB65Zni9D`          | send the address to be checked                 |
 

@@ -4,10 +4,10 @@
 
 Using this page you can get your wallet balance.
 
-## _Note :_
+## Note
 
-* _Add currency name in the link._&#x20;
-  * _Example :_ `https://wallet.mrbean.dev/api/TRX/newaddress`
+* Add currency name in the link.&#x20;
+  * Example : `https://wallet.mrbean.dev/api/TRX/newaddress`
 
 ## Parameters :
 
