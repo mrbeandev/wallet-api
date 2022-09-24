@@ -2,7 +2,7 @@
 
 :link: URL : `https://wallet.mrbean.dev/api/user/`  <mark style="color:blue;background-color:green;">POST</mark>&#x20;
 
-Using this page you can get your wallet balance.
+Using this you can get your wallet balance.
 
 | Parameter  | Required   | Type     | Example                                       | Description                                    |
 | ---------- | ---------- | -------- | --------------------------------------------- | ---------------------------------------------- |
