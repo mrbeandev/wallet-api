@@ -1,11 +1,7 @@
-# Get Balance
+# 📦 MBD Wallet
 
-:link: URL : `https://wallet.mrbean.dev/api/user/`  <mark style="color:blue;background-color:green;">POST</mark>&#x20;
+This is the Documentation for the MBD wallet.This can be used by the developers to integrate our wallet with your apps and websites.
 
-Using this you can get your wallet balance.
+This can be integrated to any language by simplely using `GET` or `POST` requests.
 
-| Parameter  | Required   | Type     | Example                                       | Description                                    |
-| ---------- | ---------- | -------- | --------------------------------------------- | ---------------------------------------------- |
-| `api`      | `true`     | `string` | `1257374757365723a3123ds3633123213123421412a` | Get your API form your user dashboard.         |
-| `method`   | `true`     | `string` | `get_balance`                                 | ---                                            |
-| `currency` | `Optional` | `string` | `TRX`                                         | send the currency you want to get balance for. |
+All Requests are to be sent to this url :&#x20;
