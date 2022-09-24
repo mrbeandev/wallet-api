@@ -13,3 +13,5 @@
 * [Available Currencies](crypto-api/available-currencies.md)
 * [Check Balance](crypto-api/check-balance.md)
 * [Get Depsoit Address](crypto-api/get-depsoit-address.md)
+* [Validate Address](crypto-api/get-depsoit-address-1.md)
+* [Withdraw](crypto-api/get-depsoit-address-2.md)
