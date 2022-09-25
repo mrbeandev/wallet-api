@@ -6,7 +6,6 @@
 
 * [Get Balance](<README (1).md>)
 * [Get Deposit Address](admin-wallet/get-deposit-address.md)
-* [Get Logs](admin-wallet/get-logs.md)
 
 ## 📔 Crypto API
 
