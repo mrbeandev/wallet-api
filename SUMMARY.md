@@ -14,3 +14,7 @@
 * [Get Depsoit Address](crypto-api/get-depsoit-address.md)
 * [Validate Address](crypto-api/get-depsoit-address-1.md)
 * [Withdraw](crypto-api/get-depsoit-address-2.md)
+
+## API Deposits
+
+* [💬 Deposit Notification's](api-deposits/deposit-notifications.md)
