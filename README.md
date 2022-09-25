@@ -4,4 +4,4 @@ This is the Documentation for the MBD wallet.This can be used by the developers 
 
 This can be integrated to any language by simplely using `GET` or `POST` requests.
 
-All Requests are to be sent to this url :&#x20;
+:purse: Wallet : [wallet.mrbean.dev](https://wallet.mrbean.dev/)
