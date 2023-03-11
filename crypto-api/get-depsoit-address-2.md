@@ -2,12 +2,13 @@
 
 :link: URL : `https://wallet.mrbean.dev/api/:currency/validate`  <mark style="color:blue;background-color:green;">POST</mark>&#x20;
 
-Using this page you can check if a Crypto wallet is valid or not.
+Using this you can send payment / withdraw.
 
 ## _Note :_
 
-* _Add currency name in the link._&#x20;
+* _Add the currency name in the link._&#x20;
   * _Example :_ `https://wallet.mrbean.dev/api/TRX/newaddress`
+* _All withdrawals are instantly made._
 
 ## Parameters :
 

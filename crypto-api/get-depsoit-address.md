@@ -1,14 +1,16 @@
+---
+description: Using this , you can receive Deposits from users.
+---
+
 # Get Depsoit Address
 
 :link: URL : `https://wallet.mrbean.dev/api/:currency/newaddress`  <mark style="color:blue;background-color:green;">POST</mark>&#x20;
-
-Using this page, you can get your a receive Deposits.
 
 ## _Note :_
 
 * _Add the currency name in the link._&#x20;
   * _Example :_ `https://wallet.mrbean.dev/api/TRX/newaddress`
-* This is a temporary address only; you have to mention the time for the expiry, or the default time is `900` Sec (`15` Minutes). If you will not mention the parameter `time` the address will expire in 15 minutes automatically and any deposit made to the address will be lost forever.
+* _This is a temporary address only; you have to mention the time for the expiry, or the default time is `900` Sec (`15` Minutes). If you will not mention the parameter, `time` the address will expire in 15 minutes automatically, and any deposit made to the address will be lost forever._
 
 ## Parameters :
 
