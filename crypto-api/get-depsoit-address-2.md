@@ -1,13 +1,13 @@
 # Withdraw
 
-:link: URL : `https://wallet.mrbean.dev/api/:currency/validate`  <mark style="color:blue;background-color:green;">POST</mark>&#x20;
+:link: URL : `https://wallet.mrbean.dev/api/:currency/withdraw`  <mark style="color:blue;background-color:green;">POST</mark>&#x20;
 
 Using this you can send payment / withdraw.
 
 ## _Note :_
 
 * _Add the currency name in the link._&#x20;
-  * _Example :_ `https://wallet.mrbean.dev/api/TRX/newaddress`
+  * _Example :_ `https://wallet.mrbean.dev/api/TRX/withdraw`
 * _All withdrawals are instantly made._
 
 ## Parameters :
